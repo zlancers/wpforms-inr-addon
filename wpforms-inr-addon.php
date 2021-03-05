@@ -2,8 +2,7 @@
 /*
 Plugin Name: WPForms INR Addon
 Plugin URI: https://zlancers.in
-Description: >-
-Add INR Currency Support to WPForms (Wordpress Plugin)
+Description: Add INR (Indian Rupees) Currency Support to WPForms (Wordpress Plugin)
 Version: 1
 Author: zlancers
 Author URI: https://zlancers.in/
